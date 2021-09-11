@@ -1,0 +1,12 @@
+h1{
+    color: yellowgreen;
+    font-size: 40px;
+}
+p{
+    font-size: 21px;
+    color:darkblue; 
+}
+span{
+    color: darkred;
+    font-style: italic;
+}
